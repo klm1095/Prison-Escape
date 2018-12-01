@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PickUp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1471752973
+    locked: 0
+  - name: PickUps
+    uniqueID: 2680302937
+    locked: 0
+  - name: Ground
+    uniqueID: 1417110861
+    locked: 0
+  - name: Gate
+    uniqueID: 1937388457
+    locked: 0
+  - name: Door
+    uniqueID: 1459074509
+    locked: 0
+  - name: Player
+    uniqueID: 122349613
+    locked: 0
